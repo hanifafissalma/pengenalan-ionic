@@ -1,0 +1,7 @@
+{
+  "name": "pengenalan-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
