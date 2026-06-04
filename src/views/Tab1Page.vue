@@ -14,7 +14,7 @@
 
       <ExploreContainer name="Tab 1 page" />
       <br/>
-      <!-- <a href="/camera">Ke Kamera</a> -->
+      <a href="/camera">Ke Kamera</a>
     </ion-content>
   </ion-page>
 </template>

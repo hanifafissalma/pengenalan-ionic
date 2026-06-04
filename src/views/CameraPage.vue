@@ -54,7 +54,7 @@ const stopCamera = async () => {
 const takePicture = async () => {
   const result = await CameraPreview.capture({
     quality: 85,
-    rotateWhenSave: true,
+    rotateWhenSave: false,
   });
 
   photo.value = `data:image/jpeg;base64,${result.value}`;
